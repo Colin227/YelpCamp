@@ -3,7 +3,7 @@ Basic CRUD app written in JavaScript. Based on Yelp, but for campgrounds.
 
 
 ## Current Progress
-Basic Create, Read, Update, Delete functions are implemented.
+Basic error handling implemented. Client-side form validation with bootstrap, express asynchronous error handling in progress.
 
 
 ### Card layout for Details of each campground
